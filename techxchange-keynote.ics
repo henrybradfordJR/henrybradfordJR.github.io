@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+LAST-MODIFIED:20230407T050750Z
+TZURL:https://www.tzurl.org/zoneinfo-outlook/America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZNAME:PDT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:PST
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20230905T232610Z
+UID:1693941198882-60231@ical.marudot.com
+DTSTART;TZID=America/Los_Angeles:20230912T133000
+DTEND;TZID=America/Los_Angeles:20230912T143000
+SUMMARY:Are You Ready for the New Age of AI and Beyond?
+URL:https://www.ibm.com/community/ibm-techxchange-conference/
+DESCRIPTION:10:30-11:30 AM PDT\nIn a world where AI writes code\, what is the role of the developer?\n\nTechXchange Keynote live stream: See how Generative AI is unlocking new levels of productivity and quality for developers across industries.\n\nDinesh Nirmal\nSenior Vice President\, Products\, IBM Software
+LOCATION:MGM Grand\, Las Vegas\, NV
+END:VEVENT
+END:VCALENDAR
