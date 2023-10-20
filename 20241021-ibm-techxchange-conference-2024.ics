@@ -2,9 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 BEGIN:VEVENT
 CLASS:PUBLIC
-DESCRIPTION:IBM TechXchange Conference 2024\nDate - Oct 21\, 2024 to Oct 24\, 2023\nVenue - Mandalay Bay Las Vegas\nSave The Date for the IBM TechXchange Conference 2024\, October 21-24 2024 at Mandalay Bay Las Vegas.\n
+DESCRIPTION:IBM TechXchange Conference 2024\nDate - Oct 21\, 2024 to Oct 24\, 2024\nVenue - Mandalay Bay Las Vegas\nSave The Date for the IBM TechXchange Conference 2024\, October 21-24 2024 at Mandalay Bay Las Vegas.\n
 DTSTART:20241021
-DTEND:20231025
+DTEND:20241025
 LOCATION:Mandalay Bay Las Vegas
 SUMMARY;LANGUAGE=en-us:IBM TechXchange Conference 2024
 END:VEVENT
